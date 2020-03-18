@@ -1,0 +1,7 @@
+C:\Users\peppo\source\repos\cool\cool\obj\Debug\cool.csprojAssemblyReference.cache
+C:\Users\peppo\source\repos\cool\cool\obj\Debug\cool.csproj.CoreCompileInputs.cache
+C:\Users\peppo\source\repos\cool\cool\bin\Debug\cool.exe.config
+C:\Users\peppo\source\repos\cool\cool\bin\Debug\cool.exe
+C:\Users\peppo\source\repos\cool\cool\bin\Debug\cool.pdb
+C:\Users\peppo\source\repos\cool\cool\obj\Debug\cool.exe
+C:\Users\peppo\source\repos\cool\cool\obj\Debug\cool.pdb
